@@ -1,0 +1,4 @@
+DoubleMinute2
+chrD 0 10000
+chrE 2000 10000
+chrB 100000 144000

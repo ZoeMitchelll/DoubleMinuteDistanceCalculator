@@ -1,0 +1,4 @@
+DoubleMinute3
+chrA 0 10000
+chrB 12000 20000
+chrC 100000 144000
